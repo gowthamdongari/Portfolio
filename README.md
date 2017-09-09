@@ -29,14 +29,14 @@ now we create a dataset accordingly and created new Polynomonial Features and mo
 Random Forest Classifier.
 
 ## Subreddit Recommender System for Reddit users
-### [Link to Subreddit Recommender System](https://github.com/gowthamdongari/Subreddit_recommender_system)
+### [Link to Subreddit Recommender System]()
 The goal of the project is to to predict possibly interesting subreddits to a user based on their comment history. The hypothesis of the recommender model is, given an ordered sequence of user subreddit interactions, patterns will emerge that favour the discovery of paticular new subreddits given that historical user interaction sequence.
 
 Implemented the recommendor system using the SVD algorithm.
 Verified the accuracy of the model by removing a subreddit from the user history and checking if the recommdation system did output the removed subreddit as a recommendation.
 
 ## Visualizing-Earnings
-### [Link to Visualizing-Earnings]()
+### [Link to Visualizing-Earnings](https://github.com/gowthamdongari/Visualising_Earnings)
 The aim of the project is to get an experience on using the Tools in Python such as Pandas data Structures, Matplotlib etc..
 Here the dataset contains data of different majors in college and contains information on Male and Female distribution and 
 Employment stats, Median Salaries and how they are employed like Part-time or fulltime etc.. 
