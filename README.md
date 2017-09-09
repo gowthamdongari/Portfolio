@@ -10,7 +10,8 @@ Implemented a multi-label classifier using the training data. The classifier tag
 Achieved a label accuracy of 94% and subset accuracy of 74%
 
 ## Predicting survival of passengers on the Titanic dataset
-In this project I investigated a dataset containing information about Titanic passengers by using NumPy and Pandas, which are two popular Python packages used for manipulating datasets. The goal of this project was to get acquainted with said tools, learn about the different data structures (NumPy Arrays, Series and DataFrames) they offer,and practice the key steps on the whole data analysis process.
+[Link to the Titanic Survival project](https://github.com/gowthamdongari/Titanic_Survival)
+The aim of this project was to get acquainted with the tools, learn about the different data structures (NumPy Arrays, Series and DataFrames) how they work and what they offer,and practice the key steps on the whole data analysis process.In this project I Explored the dataset containing information about Titanic passengers by using NumPy and Pandas, which are two popular Python packages used for manipulating datasets. 
 
 I used Decision tree & Random forest algorithms to predict the percentage of passengers who survived.
-I am currently at 1829th rank for the given competition on Kaggle with an accuracy score of 79.42%.
+I am currently at 1304th rank for the given competition on Kaggle with an accuracy score of 79.90%.
