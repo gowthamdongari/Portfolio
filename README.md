@@ -1,7 +1,7 @@
 # Portfolio Projects
 
 ## Haptik Text classification
-### [Link to Haptik Text Classification]()
+### [Link to Haptik Text Classification](https://github.com/gowthamdongari/Haptik_Challenge)
 Classification of Haptik user queries into appropriate Classes using NLP and ML techniques.
 The goal of the project was to detect the user intent and classify the user chat into the following categories - food,recharge,support,reminders,travel,nearby,movies,casual and other.
 
