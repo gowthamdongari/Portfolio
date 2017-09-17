@@ -28,7 +28,7 @@ I used Decision tree & Random forest algorithms to predict the percentage of pas
 I am currently at 1304th rank for the given competition on Kaggle with an accuracy score of 79.90%.
 
 ## Subreddit Recommender System for Reddit users
-### [Link to Subreddit Recommender System]()
+### [Link to Subreddit Recommender System](https://github.com/gowthamdongari/Subreddit_recommender_system)
 The goal of the project is to to predict possibly interesting subreddits to a user based on their comment history. The hypothesis of the recommender model is, given an ordered sequence of user subreddit interactions, patterns will emerge that favour the discovery of paticular new subreddits given that historical user interaction sequence.
 
 Implemented the recommendor system using the SVD algorithm.
